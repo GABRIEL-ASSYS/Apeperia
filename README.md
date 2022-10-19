@@ -1,2 +1,2 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
+<h1 align="center">Apeperia</h1>
+> Status: Em desenvolvimento ⚠️
