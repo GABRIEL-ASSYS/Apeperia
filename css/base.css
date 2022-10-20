@@ -29,6 +29,8 @@ body {
 }
 
 .botao {
+    border: 1px solid var(--branco);
+    border-radius: 5px;
     box-sizing: border-box;
     display: block;
     max-width: 350px;
