@@ -50,6 +50,6 @@
     }
 
     .diferenciais__lista {
-        justify-content: space-between;
+        justify-content: space-around;
     }
 }
