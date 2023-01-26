@@ -1,6 +1,8 @@
 # Apeperia 
 
   A Apeperia é um projeto criado durante um curso sobre HTML e CSS na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, sendo uma página WEB de uma empresa de desenvolvimento de aplicativos onde contém os planos da empresa, informações sobre a empresa, formas de contato, localização e outra redes sociais.
+  
+![print da página](https://github.com/GABRIEL-ASSYS/Apeperia/blob/main/img/print.png)
 
 ## 🚀 Começando
 
